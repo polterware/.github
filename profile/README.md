@@ -1,6 +1,6 @@
 # spktrm
 
-**welcome to spktrm!** we are a software development company committed to open-source, where innovation, transparency, and collaboration drive everything we do.
+**welcome to spktrm!** we are a software development studio committed to open-source, where innovation, transparency, and collaboration drive everything we do.
 
 ## about us
 
