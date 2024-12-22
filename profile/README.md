@@ -1,1 +1,2 @@
-**welcome to polterware!** we are a software development studio where innovation and transparency drive everything we do.
+**Welcome to Polterware!**  
+At Polterware, innovation and transparency drive every project forward.
