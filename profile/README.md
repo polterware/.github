@@ -1,2 +1,2 @@
-**Welcome to Polterware!**  
-At Polterware, innovation and transparency drive every project forward.
+**welcome to polterware!**  
+at polterware, innovation and transparency drive every project forward.
